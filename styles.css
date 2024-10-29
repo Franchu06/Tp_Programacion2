@@ -1,0 +1,20 @@
+QDialog, QMainWindow {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+QLineEdit, QPushButton {
+    padding: 10px;
+    margin: 5px;
+}
+
+QPushButton {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+QPushButton:hover {
+    background-color: #45a049;
+}
